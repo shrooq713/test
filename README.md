@@ -8,10 +8,13 @@ flowchart1:
 
 ### Technologies Used In Application
 >- XAMAP
->- OpenAPI
->- MySQL Database 
->- Languages: 
+>- Open Trivia database API
+>- Cookies
+>- MySQL Database
+>- Table
+>- Forms
+>- Languages:
 >   - HTML
 >   - CSS
->   - JavaScript 
+>   - JavaScript
 >   - Php
