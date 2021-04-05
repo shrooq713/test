@@ -1,6 +1,6 @@
 # test
 ### Flowchart
-<img src="Flowchart1.jpg">
+<img src="Flowchart1.jpg" height="100">
 flowchart1:
 
 
