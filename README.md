@@ -1,6 +1,6 @@
 # test
 ### Flowchart
-<img scr="iFlowchart1.jpg height="100">
+<img scr="Flowchart1.jpg height="100">
 flowchart1:
 
 
