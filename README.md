@@ -1,6 +1,6 @@
 # test
 ### Flowchart
-<img scr="Flowchart1.jpg">
+<img src="Flowchart1.jpg">
 flowchart1:
 
 
