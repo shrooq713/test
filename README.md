@@ -2,7 +2,7 @@
 ### Flowchart
 <img src="Flowchart1.jpg" height="800">
 <img src="Flowchart2.jpg" height="800">
-<img src="Flowchart3.jpg">
+<img src="Flowchart3.jpg" wodth="100">
 flowchart1:
 
 
