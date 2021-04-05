@@ -1,10 +1,9 @@
 # test
 ### Flowchart
+<img scr="iFlowchart1.jpg height="100">
 flowchart1:
 
-![](Flowchart1.jpg height="100")
-![](Flowchart2.jpg)
-![](Flowchart3.jpg)
+
 ### Technologies Used In Application
 >- XAMAP
 >- OpenAPI
